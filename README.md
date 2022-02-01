@@ -1,1 +1,1 @@
-# ezaample
+#Misol uchun yaratilhan project
